@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMLBasics", "XAMLBasics\XAMLBasics.csproj", "{B89D71F2-45D3-4C7D-9F6E-C840CD5DFDCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMLBasics.Web", "XAMLBasics.Web\XAMLBasics.Web.csproj", "{4712F26F-043D-438A-8C24-27ACE10EA6FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89D71F2-45D3-4C7D-9F6E-C840CD5DFDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89D71F2-45D3-4C7D-9F6E-C840CD5DFDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89D71F2-45D3-4C7D-9F6E-C840CD5DFDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89D71F2-45D3-4C7D-9F6E-C840CD5DFDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4712F26F-043D-438A-8C24-27ACE10EA6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4712F26F-043D-438A-8C24-27ACE10EA6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4712F26F-043D-438A-8C24-27ACE10EA6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4712F26F-043D-438A-8C24-27ACE10EA6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
